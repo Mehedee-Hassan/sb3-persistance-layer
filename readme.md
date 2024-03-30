@@ -17,3 +17,11 @@ docker-compose exec mongodb mongosh product-db --quiet --eval "db.products. find
 docker-compose exec mysql mysql -uuser -p review-db -e "select * from reviews"
 ```
 
+
+
+
+### TOOLS
+<a href="docs/db/tools.md">tools</a>
+
+### PERSISTENCE
+<a href="docs/db/optimistic_locking.md">optimistic locking and version</a>
