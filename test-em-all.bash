@@ -10,7 +10,6 @@
 : ${PROD_ID_NOT_FOUND=13}
 : ${PROD_ID_NO_RECS=113}
 : ${PROD_ID_NO_REVS=213}
-
 function assertCurl() {
 
   local expectedHttpCode=$1
