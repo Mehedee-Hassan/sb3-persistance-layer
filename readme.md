@@ -5,7 +5,7 @@
 
 
 ### COMMANDS
-<a href="docs/db/commands.md">tools</a>
+<a href="docs/db/commands.md">commands</a>
 
 ### TOOLS
 <a href="docs/db/tools.md">tools</a>
