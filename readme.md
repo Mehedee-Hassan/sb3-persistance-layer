@@ -8,7 +8,7 @@
 <a href="docs/db/commands.md">commands</a>
 
 ### TOOLS
-<a href="docs/db/tools.md">tools</a>
+<a href="docs/tools.md">tools</a>
 
 ### PERSISTENCE
 <a href="docs/db/optimistic_locking.md">Optimistic locking and version</a>
@@ -22,3 +22,5 @@
 <a href="docs/troubleshooting-handling.md">TROUBLESHOOTING</a>
 
 
+### TESTING
+<a href="docs/testing/testing.md> TESTING </a>
